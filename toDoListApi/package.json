@@ -1,0 +1,22 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTfull todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\Error\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Learning-New-Techology/test-api.git"
+  },
+  "keywords": [
+    "RESTful"
+  ],
+  "author": "Shiva Bhusal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Learning-New-Techology/test-api/issues"
+  },
+  "homepage": "https://github.com/Learning-New-Techology/test-api#readme"
+}
