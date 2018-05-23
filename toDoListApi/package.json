@@ -4,7 +4,8 @@
   "description": "RESTfull todoListApi",
   "main": "index.js",
   "scripts": {
-    "test": "\"echo \\Error\" && exit 1\""
+    "test": "\"echo \\Error\" && exit 1\"", 
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/Learning-New-Techology/test-api/issues"
   },
-  "homepage": "https://github.com/Learning-New-Techology/test-api#readme"
+  "homepage": "https://github.com/Learning-New-Techology/test-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
+
